@@ -1,5 +1,5 @@
 ## Olá, sou o Mateus Brunetti!
-* 🌱 Studying Java, JavaScript, React and Database
+* 🌱 Studying Java, TypeScript, React and Database
 * 👨‍💻 Building APIs with Java, Spring Boot, and PostgreSQL
 * ⚡ Fun fact: Passionate about NBA
 
