@@ -1,7 +1,7 @@
 ## Olá, sou o Mateus Brunetti!
-* 🌱 Studying Java, TypeScript, React and Database
-* 👨‍💻 Building APIs with Java, Spring Boot, and PostgreSQL
-* ⚡ Fun fact: Passionate about NBA
+* 🌱 Engenheiro de Software, CREA: PR-235853/D
+* 👨‍💻 Full-stack com foco em Java, TypeScript e React
+* ⚡ Fun fact: Fã de NBA
 
 <div style="display: inline_block" align="center">
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=mateusfb1103&theme=highcontrast&hide_border=false">
