@@ -4,8 +4,7 @@
 * ⚡ Fun fact: Fã de NBA
 
 <div style="display: inline_block" align="center">
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=mateusfb1103&theme=highcontrast&hide_border=false">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusfb1103&theme=highcontrast&show_icons=true&hide_border=false&layout=compact">
+<img src="https://github-readme-stats.vercel.app/api?username=mateusfb1103&theme=highcontrast&show_icons=true&hide_border=true&count_private=true" alt="mateusfb1103's GitHub Stats" /><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusfb1103&theme=highcontrast&show_icons=true&hide_border=false&layout=compact">
 </div>
 
 <div style="display: inline_block" align="center"><br>
